@@ -66,14 +66,13 @@
 }
 
 #colours {
-  position: fixed;
-  top: 10%;
-  left: 45%;
-}
+  display: flex;
+  width: 400px;
+  flex-wrap: wrap; 
+  }
 
 button {
   position:absolute;
-  bottom:38%;
-  left: 49%;
+ width: 100px
 }
 
